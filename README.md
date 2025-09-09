@@ -23,9 +23,14 @@ Face-Recognition-Attendance/
 ├── data/ # student face images
 ├── Notebook/ # source code
 ├── requirements.txt # dependencies
+├──  assets # store demo
 └── README.md # project docs
 ````
 
+
+## 🎥 Demo
+
+<video src="https://github.com/cadetsikandar/Face-Recognition-Attendance/raw/main/assets/demo.mp4" controls width="600"></video>
 
 
 ---
