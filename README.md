@@ -32,7 +32,7 @@ Face-Recognition-Attendance/
 
 ## 🔧 Installation
 ```bash
-git clone https://github.com/<your-username>/Face-Recognition-Attendance.git
+git clone https://github.com/cadetsikandar/Face-Recognition-Attendance.git
 cd Face-Recognition-Attendance
 pip install -r requirements.txt
 ````
