@@ -30,7 +30,8 @@ Face-Recognition-Attendance/
 
 ## 🎥 Demo
 
-<video src="https://github.com/cadetsikandar/Face-Recognition-Attendance/raw/main/assets/demo.mp4" controls width="600"></video>
+https://github.com/cadetsikandar/Face-Recognition-Attendance/blob/main/assets/demo.mp4
+
 
 
 ---
