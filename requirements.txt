@@ -1,0 +1,8 @@
+torch
+torchvision
+facenet-pytorch
+opencv-python
+numpy==1.26.4
+pandas
+Pillow
+openpyxl
